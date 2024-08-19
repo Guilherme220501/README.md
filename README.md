@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Cursos Full-Stack e Engenharia de Software**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://gui220501.github.io" target="blank">
+- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://gui220501.github.io" target="blank">gui</a>
 
 - 📫 Como entrar em contato comigo **Guilherme8876sk@gmail.com**
 
